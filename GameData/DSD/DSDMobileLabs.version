@@ -1,0 +1,31 @@
+{
+     "NAME":"DSD Mobile Labs",
+	 "URL":"https://raw.githubusercontent.com/DMagic1/Science-Param-Loader/master/GameData/ScienceParamModifier/ScienceParamModifier.version",
+     "DOWNLOAD":"http://spacedock.info/mod/136/Celestial%20Body%20Science%20Editor/download/8.0",
+     "GITHUB":{
+         "USERNAME":"MrKiel",
+         "REPOSITORY":"Data-Storage-Device",
+         "ALLOW_PRE_RELEASE":false,
+     },
+     "VERSION":{
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":1,
+         "BUILD":0
+     },
+     "KSP_VERSION":{
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":1
+     },
+     "KSP_VERSION_MIN":{
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":0
+     },
+     "KSP_VERSION_MAX":{
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":99
+     }
+ } 
