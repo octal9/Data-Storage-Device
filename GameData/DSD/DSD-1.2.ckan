@@ -1,0 +1,26 @@
+{
+    "spec_version": 1,
+    "identifier": "DSD",
+    "name": "DSD Mobile Labs",
+    "abstract": "This mod allows the player to invest science points to improve the stats of parts such as the mass or engine-efficiency.",
+    "author": "Kielm",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150973-12-dsd-mobile-labs/",
+        "repository": "https://github.com/MrKiel/Data-Storage-Device"
+    },
+    "version": "1.2",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://github.com/MrKiel/Data-Storage-Device/releases/download/1.2/DSD.1.2.zip",
+    "download_size": 333295,
+    "download_hash": {
+        "sha1": "3F466A35EA20D738EA0DAFEA83BC04603108461D",
+        "sha256": "B581D9069F921EC8DD5945EAAEBA0A3DB3C507163DF83377A561EFDA2637FC69"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}
