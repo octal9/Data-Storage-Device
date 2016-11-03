@@ -9,17 +9,19 @@
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150973-12-dsd-mobile-labs/",
         "repository": "https://github.com/MrKiel/Data-Storage-Device"
     },
-    "version": "1.2",
+    "version": "1.2.1",
+    "ksp_version_min": "1.2.0",
+    "ksp_version_max": "1.2.99",
     "depends": [
         {
             "name": "ModuleManager"
         }
     ],
-    "download": "https://github.com/MrKiel/Data-Storage-Device/releases/download/1.2/DSD.1.2.zip",
-    "download_size": 333295,
+    "download": "https://github.com/MrKiel/Data-Storage-Device/releases/download/1.2.1/DSD.1.2.1.zip",
+    "download_size": 334701,
     "download_hash": {
-        "sha1": "3F466A35EA20D738EA0DAFEA83BC04603108461D",
-        "sha256": "B581D9069F921EC8DD5945EAAEBA0A3DB3C507163DF83377A561EFDA2637FC69"
+        "sha1": "BD479E71427DB60C395B8A4192A092F6C3D266C1",
+        "sha256": "C6F0817CF38D4CE2257EB25986B68405E6D2D5B57EA74D150355901AD6B564EC"
     },
     "download_content_type": "application/zip",
     "x_generated_by": "netkan"
