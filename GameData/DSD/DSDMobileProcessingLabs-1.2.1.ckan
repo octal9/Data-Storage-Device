@@ -1,6 +1,6 @@
 {
     "spec_version": 1,
-    "identifier": "DSD",
+    "identifier": "DSDMobileProcessingLabs",
     "name": "DSD Mobile Labs",
     "abstract": "This mod allows the player to invest science points to improve the stats of parts such as the mass or engine-efficiency.",
     "author": "Kielm",
@@ -15,6 +15,12 @@
     "depends": [
         {
             "name": "ModuleManager"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/DSD",
+            "install_to": "GameData"
         }
     ],
     "download": "https://github.com/MrKiel/Data-Storage-Device/releases/download/1.2.1/DSD.1.2.1.zip",
