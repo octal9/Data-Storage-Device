@@ -8,7 +8,7 @@
     "$vref" : "#/ckan/ksp-avc",
     "author"       : "octal9",
     "resources": {
-        "homepage": "http://example.com/soon"
+        "homepage": "http://example.com/soon" // ksp forum post
     },
     "install": [
         {
