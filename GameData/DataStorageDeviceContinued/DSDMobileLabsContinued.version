@@ -1,10 +1,10 @@
 {
-     "NAME":"DSD Mobile Labs",
-	 "URL":"https://github.com/octal9/Data-Storage-Device/edit/master/GameData/DSD/DSDMobileLabs.version",
-     "DOWNLOAD":"https://github.com/octal9/Data-Storage-Device/releases",
+     "NAME":"DSD Mobile Labs Continued",
+	 "URL":"https://raw.githubusercontent.com/octal9/DataStorageDeviceContinued/ckan_patch/GameData/DataStorageDeviceContinued/DSDMobileLabsContinued.version",
+     "DOWNLOAD":"https://github.com/octal9/DataStorageDeviceContinued/releases",
      "GITHUB":{
          "USERNAME":"octal9",
-         "REPOSITORY":"Data-Storage-Device",
+         "REPOSITORY":"DataStorageDeviceContinued",
          "ALLOW_PRE_RELEASE":false,
      },
      "VERSION":{
